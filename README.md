@@ -1,3 +1,3 @@
 # HOST-APIs
-Sample project
+Sample project\n
 This project is a sample on Github.
